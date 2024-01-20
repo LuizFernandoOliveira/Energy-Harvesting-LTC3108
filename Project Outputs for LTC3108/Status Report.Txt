@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LTC3108.PrjPcb]
+   Generated File[Board_2.TXT]
+   Generated File[Board_2.LDP]
+   Generated File[Board_2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:37:04 On 05/03/2022

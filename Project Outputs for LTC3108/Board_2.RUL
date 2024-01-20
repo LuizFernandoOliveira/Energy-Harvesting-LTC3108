@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\luizf\Documents\1-Faculdade\Unicamp\Doutorado\Energy Harvesting\Energy_Harvesting\PhD_Energy_Harvesting_LTC3108\LTC3108\Board_2.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.25
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
